@@ -26,7 +26,7 @@ const AddItems = () => {
   }
   return (
     <div>
-      <h1>Add Item</h1>
+      <h2>Add Item</h2>
       <form onSubmit={handleSubmit}>
         <div>
           <input
